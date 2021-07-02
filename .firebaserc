@@ -1,6 +1,5 @@
 {
   "projects": {
-    "default": "digiweb-2",
-    "n": "risen-template"
+    "default": "risen-template"
   }
 }
