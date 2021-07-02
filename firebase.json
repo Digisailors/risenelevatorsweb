@@ -1,6 +1,8 @@
 {
   "hosting": {
+    "site":"risenelevators",
     "public": "public",
+    "cleanurl":true,
     "ignore": [
       "firebase.json",
       "**/.*",
@@ -8,3 +10,4 @@
     ]
   }
 }
+
