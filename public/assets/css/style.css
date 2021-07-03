@@ -6853,3 +6853,18 @@ Go Top CSS
   background: #0d1028;
 }
 /*# sourceMappingURL=style.css.map */
+
+
+
+
+
+shop-list p {
+  color: #051c45;
+  line-height: 20px;
+}
+p {
+  margin: 0 0 15px;
+  font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
+}
+
