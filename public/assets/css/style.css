@@ -757,7 +757,7 @@ Header CSS
   border-bottom: none;
 }
 
-.header-style-two .header-top {
+.header-style-two .header-top {   
   background: #0d1028;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -2712,7 +2712,7 @@ Project CSS
   transition: 0.5s;
 }
 
-.single-projects .btn-box a {
+/* .single-projects .btn-box a {
   display: inline-block;
   color: #ffffff;
   width: 45px;
@@ -2721,7 +2721,7 @@ Project CSS
   background: hsl(202, 100%, 37%);
   margin: 0 3px;
   border-radius: 50%;
-}
+} */
 
 .single-projects .btn-box a i::before {
   font-size: 18px;
