@@ -371,14 +371,17 @@
                         </div>
                     </div>
                 </div>
-
+                
                 <div class="col-lg-8 col-md-12">
                     <form id="contactForm">
                         <div class="row">
+                            <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"  
+                          onload="if(submitted) {window.location='http://127.0.0.1:5501/public/contact.html';}"></iframe> 
+                          <form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSdqCy0RFubKcRTMxtAMmzC9ckCb5wBAK81V2VYuswp69JMS2w/formResponse" target="_self" method="POST"  onsubmit="return validateForm();">
                             <div class="col-lg-6 col-md-6">
                                 <div class="form-group">
                                     <label for="name">Name*</label>
-                                    <input type="text" class="form-control" name="name" id="name" required=""
+                                    <input type="text" class="form-control" name="entry.1882683342" id="c-name" required=""
                                         data-error="Please enter your name">
                                     <div class="help-block with-errors"></div>
                                 </div>
@@ -387,7 +390,7 @@
                             <div class="col-lg-6 col-md-6">
                                 <div class="form-group">
                                     <label for="email">Email*</label>
-                                    <input type="email" class="form-control" name="email" id="email" required=""
+                                    <input type="email" class="form-control" name="entry.389583502" id="c-email" required=""
                                         data-error="Please enter your email">
                                     <div class="help-block with-errors"></div>
                                 </div>
@@ -396,7 +399,7 @@
                             <div class="col-lg-12 col-md-12">
                                 <div class="form-group">
                                     <label for="number">Phone Number*</label>
-                                    <input type="text" class="form-control" name="number" id="number" required=""
+                                    <input type="text" class="form-control" name="entry.1410081444" id="c-number" required=""
                                         data-error="Please enter your number">
                                     <div class="help-block with-errors"></div>
                                 </div>
@@ -405,7 +408,7 @@
                             <div class="col-lg-12 col-md-12">
                                 <div class="form-group">
                                     <label for="message">Message*</label>
-                                    <textarea name="message" class="form-control" id="message" cols="30" rows="4"
+                                    <textarea name="entry.575848937" class="form-control" id="message" cols="30" rows="4"
                                         required="" data-error="Write your message"></textarea>
                                     <div class="help-block with-errors"></div>
                                 </div>
