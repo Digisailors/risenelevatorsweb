@@ -158,7 +158,7 @@ a:hover, a:focus {
 
 .btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show > .btn-primary.dropdown-toggle {
   color: #ffffff;
-  background: #0d1028;
+  background: hsl(202, 100%, 37%);
   -webkit-box-shadow: 0 13px 27px 0 rgba(255, 82, 2, 0.11);
           box-shadow: 0 13px 27px 0 rgba(255, 82, 2, 0.11);
 }
@@ -170,7 +170,7 @@ a:hover, a:focus {
   width: 51%;
   height: 100%;
   z-index: -1;
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
@@ -184,7 +184,7 @@ a:hover, a:focus {
 }
 
 .btn-primary.disabled, .btn-primary:disabled {
-  background: #0d1028;
+  background: hsl(202, 100%, 37%);
   color: #ffffff;
 }
 
@@ -215,7 +215,7 @@ a:hover, a:focus {
 
 .section-title .bar {
   position: relative;
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   width: 70px;
   height: 3px;
   overflow: hidden;
@@ -231,7 +231,7 @@ a:hover, a:focus {
 .section-title span {
   display: block;
   text-transform: uppercase;
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
   font-size: 13px;
   font-weight: 500;
 }
@@ -248,13 +248,13 @@ a:hover, a:focus {
   background: transparent;
   color: #0d1028;
   padding: 12px 30px 10px;
-  border: 2px solid #ff5202;
+  border: 2px solid hsl(202, 100%, 37%);
 }
 
 .section-title .btn-primary:not(:disabled):not(.disabled).active, .section-title .btn-primary:not(:disabled):not(.disabled):active, .show > .section-title .btn-primary.dropdown-toggle {
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   color: #ffffff;
-  border-color: #ff5202;
+  border-color: hsl(202, 100%, 37%);
 }
 
 .section-title .btn-primary::after, .section-title .btn-primary::before {
@@ -262,9 +262,9 @@ a:hover, a:focus {
 }
 
 .section-title .btn-primary:hover, .section-title .btn-primary:focus {
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   color: #ffffff;
-  border-color: #ff5202;
+  border-color: hsl(202, 100%, 37%);
 }
 
 /*form-control*/
@@ -300,7 +300,7 @@ a:hover, a:focus {
 }
 
 .form-control:focus {
-  border-color: #ff5202;
+  border-color: hsl(202, 100%, 37%);
   background: #ffffff;
   -webkit-box-shadow: unset !important;
           box-shadow: unset !important;
@@ -315,7 +315,7 @@ Preloader CSS
   top: 0;
   width: 100%;
   height: 100%;
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   text-align: center;
   z-index: 9999999;
 }
@@ -414,7 +414,7 @@ Header CSS
 }
 
 .header-info p i {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
   position: relative;
   top: 2px;
   margin-right: 4px;
@@ -426,7 +426,7 @@ Header CSS
 }
 
 .header-info p a:hover, .header-info p a:focus {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .header-info ul {
@@ -450,7 +450,7 @@ Header CSS
 .header-info ul li a:hover, .header-info ul li a:focus {
   -webkit-transform: translateY(-3px);
           transform: translateY(-3px);
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .header-info ul li a i::before {
@@ -488,7 +488,7 @@ Header CSS
   position: absolute;
   left: 0;
   top: 0;
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .header-middle .header-information ul li .icon i::before {
@@ -517,7 +517,7 @@ Header CSS
 }
 
 .header-middle .header-information ul li p a:hover, .header-middle .header-information ul li p a:focus {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .header-middle .header-information ul li p a:first-child {
@@ -541,7 +541,7 @@ Header CSS
   height: 100%;
   width: 50px;
   line-height: 56px;
-  background: #e05110;
+  background: hsl(202, 100%, 37%);
   -webkit-transition: 0.5s;
   transition: 0.5s;
   margin-left: 0;
@@ -553,11 +553,11 @@ Header CSS
 
 .header-middle .header-information ul li .btn .flaticon-edit:hover, .header-middle .header-information ul li .btn .flaticon-edit:focus {
   background: #ffffff;
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .header-middle .header-information ul li .btn:hover .flaticon-edit, .header-middle .header-information ul li .btn:focus .flaticon-edit {
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   color: #ffffff;
 }
 
@@ -574,7 +574,7 @@ Header CSS
 }
 
 .induxtro-mobile-nav.mean-container .mean-nav ul li a.active {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .induxtro-nav {
@@ -611,7 +611,7 @@ Header CSS
 }
 
 .induxtro-nav nav .navbar-nav .nav-item a:hover, .induxtro-nav nav .navbar-nav .nav-item a:focus, .induxtro-nav nav .navbar-nav .nav-item a.active {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .induxtro-nav nav .navbar-nav .nav-item a i {
@@ -629,7 +629,7 @@ Header CSS
 }
 
 .induxtro-nav nav .navbar-nav .nav-item:hover a {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .induxtro-nav nav .navbar-nav .nav-item:hover a i::before {
@@ -673,7 +673,7 @@ Header CSS
 }
 
 .induxtro-nav nav .navbar-nav .nav-item .dropdown-menu li a:hover, .induxtro-nav nav .navbar-nav .nav-item .dropdown-menu li a:focus, .induxtro-nav nav .navbar-nav .nav-item .dropdown-menu li a.active {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .induxtro-nav nav .navbar-nav .nav-item .dropdown-menu li .dropdown-menu {
@@ -690,7 +690,7 @@ Header CSS
 }
 
 .induxtro-nav nav .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a:hover, .induxtro-nav nav .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a:focus, .induxtro-nav nav .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a.active {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .induxtro-nav nav .navbar-nav .nav-item .dropdown-menu li:hover .dropdown-menu {
@@ -700,7 +700,7 @@ Header CSS
 }
 
 .induxtro-nav nav .navbar-nav .nav-item .dropdown-menu li:hover a {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .induxtro-nav nav .navbar-nav .nav-item:hover ul {
@@ -720,11 +720,11 @@ Header CSS
 .induxtro-nav nav .others-option ul li span, .induxtro-nav nav .others-option ul li a {
   display: inline-block;
   color: #ffffff;
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   padding: 10px 15px;
   border-radius: 1px;
   margin: 0 -2px;
-  border-left: 1px solid #de4702;
+  border-left: 1px solid hsl(202, 100%, 37%);
   -webkit-transition: 0.5s;
   transition: 0.5s;
   cursor: pointer;
@@ -732,7 +732,7 @@ Header CSS
 
 .induxtro-nav nav .others-option ul li span:hover, .induxtro-nav nav .others-option ul li span:focus, .induxtro-nav nav .others-option ul li a:hover, .induxtro-nav nav .others-option ul li a:focus {
   background: #ffffff;
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .induxtro-nav nav .others-option ul li span {
@@ -757,7 +757,7 @@ Header CSS
   border-bottom: none;
 }
 
-.header-style-two .header-top {
+.header-style-two .header-top {   
   background: #0d1028;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -815,7 +815,7 @@ Header CSS
 .header-style-three {
   position: relative;
   background: #ffffff;
-  border-bottom: 1px solid #ff5202;
+  border-bottom: 1px solid hsl(202, 100%, 37%);
 }
 
 .header-style-three .induxtro-nav nav {
@@ -846,7 +846,7 @@ Header CSS
 
 .header-style-three .induxtro-nav nav .others-option ul li span:hover, .header-style-three .induxtro-nav nav .others-option ul li span:focus, .header-style-three .induxtro-nav nav .others-option ul li a:hover, .header-style-three .induxtro-nav nav .others-option ul li a:focus {
   background: transparent;
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .header-style-three .induxtro-nav nav .others-option ul li span {
@@ -866,7 +866,7 @@ Header CSS
 }
 
 .header-style-three .header-middle .header-information ul li p a:hover, .header-style-three .header-middle .header-information ul li p a:focus {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .searchBoxTop {
@@ -876,7 +876,7 @@ Header CSS
   left: 0;
   width: 100%;
   background-color: #ffffff;
-  border-bottom: 3px solid #ff5202;
+  border-bottom: 3px solid hsl(202, 100%, 37%);
   -webkit-box-shadow: 0 5px 18px 0 rgba(0, 0, 0, 0.15);
           box-shadow: 0 5px 18px 0 rgba(0, 0, 0, 0.15);
   visibility: hidden;
@@ -911,7 +911,7 @@ Header CSS
 }
 
 .searchBoxTop form button[type="submit"] {
-  border: 1px solid #ff5202;
+  border: 1px solid hsl(202, 100%, 37%);
   color: #ffffff;
   background-color: transparent;
   padding: 0 30px;
@@ -922,7 +922,7 @@ Header CSS
   height: 100%;
   -webkit-transition: 0.5s;
   transition: 0.5s;
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   outline: 0 !important;
 }
 
@@ -963,7 +963,7 @@ Header CSS
 }
 
 .searchBoxTop .searchClose:hover::before, .searchBoxTop .searchClose:hover::after, .searchBoxTop .searchClose:focus::before, .searchBoxTop .searchClose:focus::after {
-  background-color: #ff5202;
+  background-color: hsl(202, 100%, 37%);
 }
 
 /*================================================
@@ -995,7 +995,7 @@ Main Banner CSS
 }
 
 .item-bg1 {
-  background-image: url(../img/main-banner1.jpg);
+  background-image: url(../img/mainbanner1.jpg);
 }
 
 .item-bg2 {
@@ -1003,7 +1003,7 @@ Main Banner CSS
 }
 
 .item-bg3 {
-  background-image: url(../img/main-banner3.jpg);
+  background-image: url(../img/mainbanner3.jpg);
 }
 
 .item-bg4 {
@@ -1041,7 +1041,7 @@ Main Banner CSS
 }
 
 .main-banner-content h1 span {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .main-banner-content p {
@@ -1071,7 +1071,7 @@ Main Banner CSS
   position: absolute;
   left: 0;
   bottom: 0;
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   width: 110%;
   z-index: -1;
   height: 2px;
@@ -1080,7 +1080,7 @@ Main Banner CSS
 }
 
 .learn-more-btn:hover, .learn-more-btn:focus {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .learn-more-btn:hover::before, .learn-more-btn:focus::before {
@@ -1157,7 +1157,7 @@ Main Banner CSS
 }
 
 .home-banner-four .main-banner .main-banner-content .learn-more-btn:hover, .home-banner-four .main-banner .main-banner-content .learn-more-btn:focus {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .home-banner-four.home-slides.owl-theme .owl-nav.disabled + .owl-dots .owl-dot span {
@@ -1169,11 +1169,11 @@ Main Banner CSS
 }
 
 .home-banner-four.home-slides.owl-theme .owl-nav.disabled + .owl-dots .owl-dot:hover span, .home-banner-four.home-slides.owl-theme .owl-nav.disabled + .owl-dots .owl-dot.active span {
-  border-color: #ff5202;
+  border-color: hsl(202, 100%, 37%);
 }
 
 .home-banner-four.home-slides.owl-theme .owl-nav.disabled + .owl-dots .owl-dot:hover span::before, .home-banner-four.home-slides.owl-theme .owl-nav.disabled + .owl-dots .owl-dot.active span::before {
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
 }
 
 .home-slides.owl-theme .owl-nav.disabled + .owl-dots {
@@ -1219,11 +1219,11 @@ Main Banner CSS
 }
 
 .home-slides.owl-theme .owl-nav.disabled + .owl-dots .owl-dot:hover span, .home-slides.owl-theme .owl-nav.disabled + .owl-dots .owl-dot.active span {
-  border-color: #ff5202;
+  border-color: hsl(202, 100%, 37%);
 }
 
 .home-slides.owl-theme .owl-nav.disabled + .owl-dots .owl-dot:hover span::before, .home-slides.owl-theme .owl-nav.disabled + .owl-dots .owl-dot.active span::before {
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
 }
 
 /*================================================
@@ -1244,7 +1244,7 @@ Contact Info Boxes CSS
   position: absolute;
   left: 0;
   top: 0;
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .contact-info-boxes .box .icon i::before {
@@ -1272,7 +1272,7 @@ Contact Info Boxes CSS
 }
 
 .contact-info-boxes .box p a:hover, .contact-info-boxes .box p a:focus {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .contact-info-boxes .box p a:first-child {
@@ -1290,7 +1290,7 @@ Contact Info Boxes CSS
   height: 100%;
   width: 50px;
   line-height: 70px;
-  background: #e05110;
+  background: hsl(202, 100%, 37%);
   -webkit-transition: 0.5s;
   transition: 0.5s;
   margin-left: 0;
@@ -1302,11 +1302,11 @@ Contact Info Boxes CSS
 
 .contact-info-boxes .box .btn .flaticon-edit:hover, .contact-info-boxes .box .btn .flaticon-edit:focus {
   background: #ffffff;
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .contact-info-boxes .box .btn:hover .flaticon-edit, .contact-info-boxes .box .btn:focus .flaticon-edit {
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   color: #ffffff;
 }
 
@@ -1340,7 +1340,7 @@ Services Boxes CSS
   line-height: 60px;
   background: #ffffff;
   text-align: center;
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
@@ -1371,11 +1371,11 @@ Services Boxes CSS
 }
 
 .services-box:hover {
-  border-color: #ff5202;
+  border-color: hsl(202, 100%, 37%);
 }
 
 .services-box:hover .icon {
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   color: #ffffff;
   border-radius: 50%;
 }
@@ -1401,7 +1401,7 @@ Services Boxes CSS
   position: absolute;
   left: 0;
   bottom: 0;
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   width: 110%;
   z-index: -1;
   height: 2px;
@@ -1410,7 +1410,7 @@ Services Boxes CSS
 }
 
 .read-more-btn:hover, .read-more-btn:focus {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .read-more-btn:hover::before, .read-more-btn:focus::before {
@@ -1455,7 +1455,7 @@ About CSS
   position: absolute;
   left: 15px;
   top: 0;
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   width: 90%;
   height: 100%;
   z-index: -1;
@@ -1470,7 +1470,7 @@ About CSS
 .about-content-image::before {
   content: '';
   position: absolute;
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   left: -40px;
   top: 0;
   width: 150px;
@@ -1486,7 +1486,7 @@ About CSS
 .about-content span {
   text-transform: uppercase;
   display: block;
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .about-content h3 {
@@ -1515,7 +1515,7 @@ About CSS
 }
 
 .about-content ul li i {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .about-content ul li i::before {
@@ -1541,7 +1541,7 @@ About CSS
 }
 
 .about-funfacts p {
-  color: #ff5202;
+  color:hsl(202, 100%, 37%);
   margin-bottom: 0;
 }
 
@@ -1572,7 +1572,7 @@ About CSS
   left: 0;
   right: 0;
   bottom: 0;
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   -webkit-transform: scaleY(0);
           transform: scaleY(0);
   -webkit-transform-origin: 50% 0;
@@ -1588,7 +1588,7 @@ About CSS
 }
 
 .single-features-box .icon {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
@@ -1611,7 +1611,7 @@ About CSS
 }
 
 .single-features-box:hover {
-  border-color: #ff5202;
+  border-color: hsl(202, 100%, 37%);
   -webkit-transform: translateY(-7px);
           transform: translateY(-7px);
 }
@@ -1659,7 +1659,7 @@ About CSS
 .about-inner .about-inner-content span {
   text-transform: uppercase;
   display: block;
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .about-inner .about-inner-content h3 {
@@ -1691,7 +1691,7 @@ About CSS
 }
 
 .about-inner .about-inner-content ul li i {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .about-inner .about-inner-content ul li i::before {
@@ -1708,7 +1708,7 @@ About CSS
 
 .about-inner .about-inner-content .btn-primary:hover, .about-inner .about-inner-content .btn-primary:focus {
   background: #ffffff;
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 /*about-style-three*/
@@ -1751,8 +1751,8 @@ Boxes CSS
   bottom: -7px;
   width: 90px;
   height: 90px;
-  border-bottom: 7px solid #ff5202;
-  border-left: 7px solid #ff5202;
+  border-bottom: 7px solid hsl(202, 100%, 37%);
+  border-left: 7px solid hsl(202, 100%, 37%);
   z-index: 1;
 }
 
@@ -1763,8 +1763,8 @@ Boxes CSS
   bottom: -7px;
   width: 90px;
   height: 90px;
-  border-bottom: 7px solid #ff5202;
-  border-right: 7px solid #ff5202;
+  border-bottom: 7px solid hsl(202, 100%, 37%);
+  border-right: 7px solid hsl(202, 100%, 37%);
   z-index: 1;
 }
 
@@ -1780,7 +1780,7 @@ Boxes CSS
 }
 
 .single-box .icon {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
   position: relative;
   z-index: 2;
   -webkit-transition: 0.5s;
@@ -1809,7 +1809,7 @@ Boxes CSS
   bottom: -5px;
   width: 50px;
   height: 2px;
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
@@ -1823,7 +1823,7 @@ Boxes CSS
 }
 
 .single-box a {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
   font-weight: 500;
   position: relative;
   z-index: 2;
@@ -1848,7 +1848,7 @@ Boxes CSS
 }
 
 .single-box:hover, .single-box.active {
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
 }
 
 .single-box:hover .icon, .single-box.active .icon {
@@ -1872,7 +1872,7 @@ Boxes CSS
 }
 
 .single-box:hover .back-icon, .single-box.active .back-icon {
-  color: #e05110;
+  color: hsl(202, 100%, 37%);
 }
 
 .boxes-area-two .box {
@@ -1881,7 +1881,7 @@ Boxes CSS
 }
 
 .boxes-area-two .box .icon {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .boxes-area-two .box .icon i::before {
@@ -1902,7 +1902,7 @@ Boxes CSS
 }
 
 .boxes-area-two .box .read-more {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .boxes-area-two .box .read-more:hover, .boxes-area-two .box .read-more:focus {
@@ -1910,7 +1910,7 @@ Boxes CSS
 }
 
 .boxes-area-two .box.active {
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   padding: 30px 20px;
 }
 
@@ -1979,7 +1979,7 @@ BG Common Style CSS
 .quote-common-content .name {
   text-align: right;
   padding: 20px 35px;
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
 }
 
 .quote-common-content .name h3 {
@@ -1991,7 +1991,7 @@ BG Common Style CSS
 .quote-common-content i {
   position: absolute;
   left: 5px;
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
   top: -30px;
   -webkit-transform: rotate(180deg);
           transform: rotate(180deg);
@@ -2029,23 +2029,23 @@ BG Common Style CSS
 
 @-webkit-keyframes ripple-orange {
   0% {
-    -webkit-box-shadow: 0 0 0 0 rgba(255, 69, 0, 0.6), 0 0 0 20px rgba(255, 69, 0, 0.6), 0 0 0 40px rgba(255, 69, 0, 0.6);
-            box-shadow: 0 0 0 0 rgba(255, 69, 0, 0.6), 0 0 0 20px rgba(255, 69, 0, 0.6), 0 0 0 40px rgba(255, 69, 0, 0.6);
+    -webkit-box-shadow: 0 0 0 0 hsl(202, 100%, 37%) hsl(202, 100%, 37%) hsl(202, 100%, 37%);
+            box-shadow: 0 0 0 0 hsl(202, 100%, 37%), 0 0 0 20px hsl(202, 100%, 37%) hsl(202, 100%, 37%);
   }
   100% {
-    -webkit-box-shadow: 0 0 0 20px rgba(255, 69, 0, 0.6), 0 0 0 40px rgba(255, 69, 0, 0.6), 0 0 0 60px rgba(255, 69, 0, 0);
-            box-shadow: 0 0 0 20px rgba(255, 69, 0, 0.6), 0 0 0 40px rgba(255, 69, 0, 0.6), 0 0 0 60px rgba(255, 69, 0, 0);
+    -webkit-box-shadow: 0 0 0 20px hsl(202, 100%, 37%) hsl(202, 100%, 37%), 0 0 0 60px rgba(255, 69, 0, 0);
+            box-shadow: 0 0 0 20px hsl(202, 100%, 37%) hsl(202, 100%, 37%), 0 0 0 60px rgba(255, 69, 0, 0);
   }
 }
 
 @keyframes ripple-orange {
   0% {
-    -webkit-box-shadow: 0 0 0 0 rgba(255, 69, 0, 0.6), 0 0 0 20px rgba(255, 69, 0, 0.6), 0 0 0 40px rgba(255, 69, 0, 0.6);
-            box-shadow: 0 0 0 0 rgba(255, 69, 0, 0.6), 0 0 0 20px rgba(255, 69, 0, 0.6), 0 0 0 40px rgba(255, 69, 0, 0.6);
+    -webkit-box-shadow: 0 0 0 0 hsl(202, 100%, 37%), 0 0 0 20px hsl(202, 100%, 37%) hsl(202, 100%, 37%);
+            box-shadow: 0 0 0 0 hsl(202, 100%, 37%), 0 0 0 20px hsl(202, 100%, 37%) hsl(202, 100%, 37%);
   }
   100% {
-    -webkit-box-shadow: 0 0 0 20px rgba(255, 69, 0, 0.6), 0 0 0 40px rgba(255, 69, 0, 0.6), 0 0 0 60px rgba(255, 69, 0, 0);
-            box-shadow: 0 0 0 20px rgba(255, 69, 0, 0.6), 0 0 0 40px rgba(255, 69, 0, 0.6), 0 0 0 60px rgba(255, 69, 0, 0);
+    -webkit-box-shadow: 0 0 0 20px hsl(202, 100%, 37%) hsl(202, 100%, 37%), 0 0 0 60px rgba(255, 69, 0, 0);
+            box-shadow: 0 0 0 20px hsl(202, 100%, 37%) hsl(202, 100%, 37%), 0 0 0 60px rgba(255, 69, 0, 0);
   }
 }
 
@@ -2082,7 +2082,7 @@ Services CSS
   width: 60px;
   height: 60px;
   line-height: 60px;
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   text-align: center;
   color: #ffffff;
   border-radius: 50%;
@@ -2106,7 +2106,7 @@ Services CSS
 }
 
 .single-services .services-content h3 a:hover, .single-services .services-content h3 a:focus {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .single-services:hover, .single-services:focus {
@@ -2137,7 +2137,7 @@ Services CSS
   width: 60px;
   height: 60px;
   line-height: 60px;
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   text-align: center;
   color: #ffffff;
   border-radius: 50%;
@@ -2170,7 +2170,7 @@ Services CSS
 }
 
 .single-services-box .services-content h3 a:hover, .single-services-box .services-content h3 a:focus {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .single-services-box .services-content .icon {
@@ -2197,7 +2197,7 @@ Services CSS
 }
 
 .single-services-box .services-content .link-icon a:hover, .single-services-box .services-content .link-icon a:focus {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .single-services-box:hover, .single-services-box:focus {
@@ -2287,7 +2287,7 @@ Testimonials CSS
 
 .single-testimonials ul li {
   display: inline-block;
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .testimonials-slides.owl-theme .owl-nav {
@@ -2307,7 +2307,7 @@ Testimonials CSS
 }
 
 .testimonials-slides.owl-theme .owl-nav [class*='owl-']:hover, .testimonials-slides.owl-theme .owl-nav [class*='owl-']:focus {
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   color: #ffffff;
 }
 
@@ -2331,7 +2331,7 @@ Testimonials CSS
 }
 
 .single-feedback .client-img i {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
   position: absolute;
   left: 0;
   bottom: -10px;
@@ -2361,7 +2361,7 @@ Testimonials CSS
 
 .single-feedback ul li {
   display: inline-block;
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .single-feedback .client-info {
@@ -2403,7 +2403,7 @@ Big Dream CSS
 .big-dream-image .video-icon {
   display: inline-block;
   color: #ffffff;
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   width: 75px;
   text-align: center;
   height: 75px;
@@ -2452,7 +2452,7 @@ Big Dream CSS
 }
 
 .big-dream-content ul li i {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .big-dream-content ul li i::before {
@@ -2476,7 +2476,7 @@ Big Dream CSS
   position: absolute;
   left: 0;
   top: 0;
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .single-dream-box .icon i::before {
@@ -2564,15 +2564,15 @@ How We Work CSS
 }
 
 .single-work-process::after {
-  border-right: 3px solid #ff5202;
-  border-bottom: 3px solid #ff5202;
+  border-right: 3px solid hsl(202, 100%, 37%);
+  border-bottom: 3px solid hsl(202, 100%, 37%);
   right: 0;
   bottom: 0;
 }
 
 .single-work-process::before {
-  border-left: 3px solid #ff5202;
-  border-top: 3px solid #ff5202;
+  border-left: 3px solid hsl(202, 100%, 37%);
+  border-top: 3px solid hsl(202, 100%, 37%);
   left: 0;
   top: 0;
 }
@@ -2637,16 +2637,16 @@ Project CSS
   transition: 0.5s;
   border-radius: 0;
   outline: 0 !important;
-  border: 1px solid #ff5202;
+  border: 1px solid hsl(202, 100%, 37%);
   color: #0d1028;
   font-weight: 500;
   margin-right: 4px;
 }
 
 .shorting-menu .filter.active, .shorting-menu .filter:hover, .shorting-menu .filter:focus {
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   color: #ffffff;
-  border-color: #ff5202;
+  border-color: hsl(202, 100%, 37%);
 }
 
 .shorting-menu .filter i {
@@ -2686,7 +2686,7 @@ Project CSS
   position: absolute;
   width: 93%;
   height: 100%;
-  border: 2px solid #ff5202;
+  border: 2px solid hsl(202, 100%, 37%);
   border-bottom: none;
   left: 15px;
   top: 15px;
@@ -2712,23 +2712,23 @@ Project CSS
   transition: 0.5s;
 }
 
-.single-projects .btn-box a {
+/* .single-projects .btn-box a {
   display: inline-block;
   color: #ffffff;
   width: 45px;
   height: 45px;
   line-height: 45px;
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   margin: 0 3px;
   border-radius: 50%;
-}
+} */
 
 .single-projects .btn-box a i::before {
   font-size: 18px;
 }
 
 .single-projects .btn-box a:hover, .single-projects .btn-box a:focus {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
   background: #ffffff;
 }
 
@@ -2740,7 +2740,7 @@ Project CSS
   left: 0;
   padding: 30px 25px;
   z-index: 2;
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   text-align: center;
   opacity: 0;
   visibility: hidden;
@@ -2809,7 +2809,7 @@ Project CSS
 }
 
 .projects-slides.owl-theme .owl-nav.disabled + .owl-dots .owl-dot:hover span, .projects-slides.owl-theme .owl-nav.disabled + .owl-dots .owl-dot:focus span, .projects-slides.owl-theme .owl-nav.disabled + .owl-dots .owl-dot.active span {
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   outline: 0 !important;
 }
 
@@ -2906,7 +2906,7 @@ Project CSS
   width: 45px;
   height: 45px;
   line-height: 45px;
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   margin: 0 3px;
   border-radius: 50%;
 }
@@ -2916,12 +2916,12 @@ Project CSS
 }
 
 .single-projects-box .btn-box a:hover, .single-projects-box .btn-box a:focus {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
   background: #ffffff;
 }
 
 .single-projects-box:hover, .single-projects-box:focus {
-  border-color: #ff5202;
+  border-color: hsl(202, 100%, 37%);
 }
 
 .single-projects-box:hover .projects-image::before, .single-projects-box:focus .projects-image::before {
@@ -2930,7 +2930,7 @@ Project CSS
 }
 
 .single-projects-box:hover .projects-content, .single-projects-box:focus .projects-content {
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
 }
 
 .single-projects-box:hover .projects-content h3 a, .single-projects-box:focus .projects-content h3 a {
@@ -2982,15 +2982,15 @@ Partner CSS
 }
 
 .partner-item::after {
-  border-right: 3px solid #ff5202;
-  border-bottom: 3px solid #ff5202;
+  border-right: 3px solid hsl(202, 100%, 37%);
+  border-bottom: 3px solid hsl(202, 100%, 37%);
   right: 0;
   bottom: 0;
 }
 
 .partner-item::before {
-  border-left: 3px solid #ff5202;
-  border-top: 3px solid #ff5202;
+  border-left: 3px solid hsl(202, 100%, 37%);
+  border-top: 3px solid hsl(202, 100%, 37%);
   left: 0;
   top: 0;
 }
@@ -3047,7 +3047,7 @@ CTA CSS
 
 .cta-area .cta-content .btn-primary:hover, .cta-area .cta-content .btn-primary:focus {
   background: #ffffff;
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .cta-area.bg-image {
@@ -3125,7 +3125,7 @@ CTA CSS
 }
 
 .cta-area-two .cta-inner-content {
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   padding: 35px 25px;
   margin-top: 40px;
 }
@@ -3139,7 +3139,7 @@ CTA CSS
   height: 70px;
   display: inline-block;
   line-height: 70px;
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
   border-radius: 50%;
   background: #0d1028;
   -webkit-transition: 0.5s;
@@ -3228,7 +3228,7 @@ Team CSS
 }
 
 .single-team .team-img .social ul li a.facebook:hover, .single-team .team-img .social ul li a.facebook:focus {
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   color: #ffffff;
 }
 
@@ -3238,7 +3238,7 @@ Team CSS
 }
 
 .single-team .team-img .social ul li a.twitter:hover, .single-team .team-img .social ul li a.twitter:focus {
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   color: #ffffff;
 }
 
@@ -3248,7 +3248,7 @@ Team CSS
 }
 
 .single-team .team-img .social ul li a.linkedin:hover, .single-team .team-img .social ul li a.linkedin:focus {
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   color: #ffffff;
 }
 
@@ -3258,12 +3258,12 @@ Team CSS
 }
 
 .single-team .team-img .social ul li a.instagram:hover, .single-team .team-img .social ul li a.instagram:focus {
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   color: #ffffff;
 }
 
 .single-team .team-img .social ul li a:hover, .single-team .team-img .social ul li a:focus {
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   color: #ffffff;
 }
 
@@ -3288,13 +3288,13 @@ Team CSS
 }
 
 .single-team .team-content h3 a:hover, .single-team .team-content h3 a:focus {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .single-team .team-content span {
   display: block;
   font-size: 14px;
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .single-team:hover .team-img .social, .single-team:focus .team-img .social {
@@ -3327,7 +3327,7 @@ Team CSS
 }
 
 .team-slides.owl-theme .owl-nav.disabled + .owl-dots .owl-dot:hover span, .team-slides.owl-theme .owl-nav.disabled + .owl-dots .owl-dot:focus span, .team-slides.owl-theme .owl-nav.disabled + .owl-dots .owl-dot.active span {
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   outline: 0 !important;
 }
 
@@ -3406,14 +3406,14 @@ Team CSS
 }
 
 .single-team-box .team-img .social ul li a:hover, .single-team-box .team-img .social ul li a:focus {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
   -webkit-transform: translateY(-2px);
           transform: translateY(-2px);
 }
 
 .single-team-box .team-content {
   background: #ffffff;
-  border-left: 2px solid #ff5202;
+  border-left: 2px solid hsl(202, 100%, 37%);
   -webkit-transition: 0.5s;
   transition: 0.5s;
   padding: 25px;
@@ -3429,7 +3429,7 @@ Team CSS
   top: 0;
   width: 0;
   height: 100%;
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   -webkit-transition: 0.5s;
   transition: 0.5s;
   z-index: -1;
@@ -3447,13 +3447,13 @@ Team CSS
 }
 
 .single-team-box .team-content h3 a:hover, .single-team-box .team-content h3 a:focus {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .single-team-box .team-content span {
   display: block;
   font-size: 14px;
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
@@ -3510,13 +3510,13 @@ Team CSS
 }
 
 .team-box .team-content h3 a:hover, .team-box .team-content h3 a:focus {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .team-box .team-content span {
   display: block;
   font-size: 14px;
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
@@ -3565,7 +3565,7 @@ Team CSS
 }
 
 .team-box:hover .team-content::before, .team-box:focus .team-content::before {
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
 }
 
 .team-box:hover .team-content h3, .team-box:focus .team-content h3 {
@@ -3592,7 +3592,7 @@ Why Choose Us CSS
 .why-choose-us {
   position: relative;
   z-index: 1;
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
 }
 
 .why-choose-us-image {
@@ -3673,7 +3673,7 @@ Why Choose Us CSS
 
 .why-choose-us-content .single-inner-box:hover .icon {
   background: #ffffff;
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 /*why-choose-us-two*/
@@ -3694,7 +3694,7 @@ Why Choose Us CSS
   border-radius: 50%;
   -webkit-transition: 0.5s;
   transition: 0.5s;
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .why-choose-content .single-inner-box .icon i::before {
@@ -3708,7 +3708,7 @@ Why Choose Us CSS
 }
 
 .why-choose-content .single-inner-box:hover .icon {
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   color: #ffffff;
 }
 
@@ -3757,7 +3757,7 @@ Get a Quote CSS
 }
 
 .quote-form {
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   padding: 35px;
   margin-left: 20px;
 }
@@ -3908,7 +3908,7 @@ FAQ CSS
   width: 40px;
   text-align: center;
   height: 100%;
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   color: #ffffff;
   line-height: 44px;
 }
@@ -3983,7 +3983,7 @@ FAQ CSS
   width: 40px;
   text-align: center;
   height: 100%;
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   color: #ffffff;
   line-height: 44px;
 }
@@ -4087,7 +4087,7 @@ Blog CSS
 }
 
 .single-blog-post .blog-post-content ul li a:hover, .single-blog-post .blog-post-content ul li a:focus {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .single-blog-post .blog-post-content ul li::before {
@@ -4120,12 +4120,12 @@ Blog CSS
 }
 
 .single-blog-post .blog-post-content h3 a:hover, .single-blog-post .blog-post-content h3 a:focus {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .single-blog-post .blog-post-content .read-more {
   display: inline-block;
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
   opacity: 0;
   visibility: hidden;
   -webkit-transition: 0.5s;
@@ -4172,7 +4172,7 @@ Blog CSS
 }
 
 .blog-slides.owl-theme .owl-nav.disabled + .owl-dots .owl-dot:hover span, .blog-slides.owl-theme .owl-nav.disabled + .owl-dots .owl-dot:focus span, .blog-slides.owl-theme .owl-nav.disabled + .owl-dots .owl-dot.active span {
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   outline: 0 !important;
 }
 
@@ -4212,7 +4212,7 @@ Blog CSS
 }
 
 .single-blog-post-box .blog-post-content h3 a:hover, .single-blog-post-box .blog-post-content h3 a:focus {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .single-blog-post-box .blog-post-content ul {
@@ -4237,7 +4237,7 @@ Blog CSS
 }
 
 .single-blog-post-box .blog-post-content ul.tags li a:hover, .single-blog-post-box .blog-post-content ul.tags li a:focus {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .single-blog-post-box .blog-post-content ul.tags li::before {
@@ -4273,7 +4273,7 @@ Blog CSS
 }
 
 .single-blog-post-box .blog-post-content ul.post-meta li i {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
   margin-right: 4px;
 }
 
@@ -4282,7 +4282,7 @@ Blog CSS
 }
 
 .single-blog-post-box .blog-post-content ul.post-meta li a:hover, .single-blog-post-box .blog-post-content ul.post-meta li a:focus {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .single-blog-post-box:hover .blog-image a img, .single-blog-post-box:focus .blog-image a img {
@@ -4307,7 +4307,7 @@ Contact Information CSS
 }
 
 .single-information-box .icon {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .single-information-box .icon i::before {
@@ -4341,7 +4341,7 @@ Contact Information CSS
 }
 
 .single-information-box ul li a:hover, .single-information-box ul li a:focus {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .single-information-box .back-icon {
@@ -4362,7 +4362,7 @@ Contact Information CSS
 Subscribe CSS
 =================================================*/
 .subscribe-area {
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   padding-top: 30px;
   padding-bottom: 30px;
 }
@@ -4500,7 +4500,7 @@ Shop CSS
 }
 
 .single-product .product-content h3 a:hover, .single-product .product-content h3 a:focus {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .single-product .product-content .row h5 {
@@ -4603,11 +4603,11 @@ Services Details CSS
 }
 
 .services-details-desc .services-image-slides.owl-theme .owl-nav.disabled + .owl-dots .owl-dot:hover span, .services-details-desc .services-image-slides.owl-theme .owl-nav.disabled + .owl-dots .owl-dot.active span {
-  border-color: #ff5202;
+  border-color: hsl(202, 100%, 37%);
 }
 
 .services-details-desc .services-image-slides.owl-theme .owl-nav.disabled + .owl-dots .owl-dot:hover span::before, .services-details-desc .services-image-slides.owl-theme .owl-nav.disabled + .owl-dots .owl-dot.active span::before {
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
 }
 
 .services-details-desc .services-features-list {
@@ -4626,7 +4626,7 @@ Services Details CSS
 }
 
 .services-details-desc .services-features-list li i {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .services-details-desc .services-features-list li i::before {
@@ -4637,7 +4637,7 @@ Services Details CSS
   background: #f7f7f7;
   padding: 30px 20px;
   margin-bottom: 25px;
-  border-left: 4px solid #ff5202;
+  border-left: 4px solid hsl(202, 100%, 37%);
 }
 
 .services-details-desc blockquote p, .services-details-desc .blockquote p {
@@ -4683,7 +4683,7 @@ Services Details CSS
   width: 40px;
   text-align: center;
   height: 100%;
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   color: #ffffff;
   line-height: 44px;
 }
@@ -4741,7 +4741,7 @@ Project Details CSS
 }
 
 .project-details-info ul li a:hover, .project-details-info ul li a:focus {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .project-details-info ul li:last-child {
@@ -4772,7 +4772,7 @@ Project Details CSS
 }
 
 .project-details-info ul li ul li a:hover, .project-details-info ul li ul li a:focus {
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   color: #ffffff;
 }
 
@@ -4797,7 +4797,7 @@ Project Details CSS
   background: #f7f7f7;
   padding: 30px 20px;
   margin-bottom: 25px;
-  border-left: 4px solid #ff5202;
+  border-left: 4px solid hsl(202, 100%, 37%);
 }
 
 .project-details-desc blockquote p, .project-details-desc .blockquote p {
@@ -4830,7 +4830,7 @@ Team Details CSS
 
 .team-details-info span {
   display: block;
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
   margin-bottom: 12px;
 }
 
@@ -4867,7 +4867,7 @@ Team Details CSS
 }
 
 .team-details-info ul.member-contact li a:hover, .team-details-info ul.member-contact li a:focus {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .team-details-info ul.member-contact li:last-child {
@@ -4894,7 +4894,7 @@ Team Details CSS
 }
 
 .team-details-info ul.social li a:hover, .team-details-info ul.social li a:focus {
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   color: #ffffff;
 }
 
@@ -4957,7 +4957,7 @@ Team Details CSS
   top: 0px;
   width: 0px;
   height: 7px;
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   -webkit-transition: all 2000ms ease;
   transition: all 2000ms ease;
   border-radius: 30px;
@@ -4989,7 +4989,7 @@ Blog Details CSS
   text-align: center;
   font-size: 22px;
   font-style: italic;
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   color: #ffffff;
   border-radius: 5px;
   padding-top: 15px;
@@ -5012,7 +5012,7 @@ Blog Details CSS
 }
 
 .blog-details-area .blog-details .article-content ul.category li a {
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   color: #ffffff;
   padding: 5px 15px 4px;
   display: inline-block;
@@ -5035,7 +5035,7 @@ Blog Details CSS
   margin-top: 20px;
   background: #f7f7f7;
   padding: 30px;
-  border-left: 4px solid #ff5202;
+  border-left: 4px solid hsl(202, 100%, 37%);
 }
 
 .blog-details-area .blog-details .article-content .blockquote p {
@@ -5117,7 +5117,7 @@ Blog Details CSS
 }
 
 .blog-details-area .comments-area ol li .comment-body .comment-meta .comment-metadata a:hover, .blog-details-area .comments-area ol li .comment-body .comment-meta .comment-metadata a:focus, .blog-details-area .comments-area ul li .comment-body .comment-meta .comment-metadata a:hover, .blog-details-area .comments-area ul li .comment-body .comment-meta .comment-metadata a:focus {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .blog-details-area .comments-area ol li .comment-body .comment-content, .blog-details-area .comments-area ul li .comment-body .comment-content {
@@ -5138,7 +5138,7 @@ Blog Details CSS
 }
 
 .blog-details-area .comments-area ol li .comment-body .reply a:hover, .blog-details-area .comments-area ol li .comment-body .reply a:focus, .blog-details-area .comments-area ul li .comment-body .reply a:hover, .blog-details-area .comments-area ul li .comment-body .reply a:focus {
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
 }
 
 .blog-details-area .comments-area .comment-respond {
@@ -5165,7 +5165,7 @@ Blog Details CSS
 }
 
 .blog-details-area .comments-area .comment-respond .comment-form-comment input:focus, .blog-details-area .comments-area .comment-respond .comment-form-comment textarea:focus, .blog-details-area .comments-area .comment-respond .comment-form-author input:focus, .blog-details-area .comments-area .comment-respond .comment-form-author textarea:focus, .blog-details-area .comments-area .comment-respond .comment-form-email input:focus, .blog-details-area .comments-area .comment-respond .comment-form-email textarea:focus, .blog-details-area .comments-area .comment-respond .comment-form-url input:focus, .blog-details-area .comments-area .comment-respond .comment-form-url textarea:focus {
-  border-color: #ff5202;
+  border-color: hsl(202, 100%, 37%);
 }
 
 .blog-details-area .comments-area .comment-respond .comment-form-comment textarea, .blog-details-area .comments-area .comment-respond .comment-form-author textarea, .blog-details-area .comments-area .comment-respond .comment-form-email textarea, .blog-details-area .comments-area .comment-respond .comment-form-url textarea {
@@ -5174,7 +5174,7 @@ Blog Details CSS
 
 .blog-details-area .comments-area .comment-respond .form-submit input {
   display: inline-block;
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   border: none;
   color: #ffffff;
   padding: 8px 30px;
@@ -5248,11 +5248,11 @@ Product Details CSS
 }
 
 .shop-details .product-img-slides.owl-theme .owl-nav.disabled + .owl-dots .owl-dot:hover span, .shop-details .product-img-slides.owl-theme .owl-nav.disabled + .owl-dots .owl-dot.active span {
-  border-color: #ff5202;
+  border-color: hsl(202, 100%, 37%);
 }
 
 .shop-details .product-img-slides.owl-theme .owl-nav.disabled + .owl-dots .owl-dot:hover span::before, .shop-details .product-img-slides.owl-theme .owl-nav.disabled + .owl-dots .owl-dot.active span::before {
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
 }
 
 .shop-details .product-entry-summary h3 {
@@ -5292,7 +5292,7 @@ Product Details CSS
 }
 
 .shop-details .product-entry-summary ul.product-categories li a:hover, .shop-details .product-entry-summary ul.product-categories li a:focus {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .shop-details .product-entry-summary ul.share-social li {
@@ -5316,7 +5316,7 @@ Product Details CSS
 }
 
 .shop-details .product-entry-summary ul.share-social li a:hover, .shop-details .product-entry-summary ul.share-social li a:focus {
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
 }
 
 .shop-details .product-entry-summary form {
@@ -5370,7 +5370,7 @@ Product Details CSS
   height: 4px;
   top: 0;
   left: 0;
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
 }
 
 .shop-details .shop-details-tabs #tabs li.inactive {
@@ -5493,7 +5493,7 @@ Cart CSS
 }
 
 .cart-table table tbody tr td.product-name a:hover {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .cart-table table tbody tr td.product-remove a {
@@ -5524,7 +5524,7 @@ Cart CSS
   height: 100%;
   width: 200px;
   border: none;
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   -webkit-transition: 0.5s;
   transition: 0.5s;
   font-weight: 500;
@@ -5584,17 +5584,17 @@ Checkout CSS
   background: #ffffff;
   padding: 18px 25px 15px;
   margin-bottom: 35px;
-  border-top: 3px solid #ff5202;
+  border-top: 3px solid hsl(202, 100%, 37%);
 }
 
 .user-actions i {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
   margin-right: 4px;
 }
 
 .user-actions span {
   display: inline-block;
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .user-actions span a {
@@ -5604,7 +5604,7 @@ Checkout CSS
 }
 
 .user-actions span a:hover, .user-actions span a:focus {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .checkout-area .title {
@@ -5676,7 +5676,7 @@ Checkout CSS
 }
 
 .order-details .order-table table tbody tr td.product-name a:hover {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .order-details .order-table table tbody tr td.order-subtotal span, .order-details .order-table table tbody tr td.order-shipping span, .order-details .order-table table tbody tr td.total-price span {
@@ -5724,7 +5724,7 @@ Checkout CSS
   content: '';
   width: 12px;
   height: 12px;
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   position: absolute;
   top: 7px;
   left: 3px;
@@ -5795,7 +5795,7 @@ Page Title CSS
   position: absolute;
   left: 0;
   top: 0;
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   width: 80px;
   height: 100%;
   z-index: -1;
@@ -5812,7 +5812,7 @@ Page Title CSS
 .page-title-area ul li {
   display: inline-block;
   margin-right: 15px;
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
   position: relative;
 }
 
@@ -5822,7 +5822,7 @@ Page Title CSS
 }
 
 .page-title-area ul li a:hover, .page-title-area ul li a:focus {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .page-title-area ul li a i {
@@ -5875,7 +5875,7 @@ Sidebar CSS
   top: 2px;
   width: 17px;
   height: 17px;
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   -webkit-clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
           clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
   -webkit-transition: 0.5s;
@@ -5913,7 +5913,7 @@ Sidebar CSS
 }
 
 .sidebar .widget.service_list ul li a:hover, .sidebar .widget.service_list ul li a:focus, .sidebar .widget.service_list ul li a.active {
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   color: #ffffff;
   padding-left: 20px;
 }
@@ -5991,7 +5991,7 @@ Sidebar CSS
   top: 0;
   width: 0;
   height: 100%;
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
@@ -6019,11 +6019,11 @@ Sidebar CSS
 }
 
 .sidebar .widget.widget_contact ul li a:hover, .sidebar .widget.widget_contact ul li a:focus {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .sidebar .widget.widget_contact ul li i {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
   position: absolute;
   left: 0;
   top: 0;
@@ -6055,7 +6055,7 @@ Sidebar CSS
   height: 100%;
   border: none;
   background: transparent;
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
@@ -6085,7 +6085,7 @@ Sidebar CSS
   top: 50%;
   width: 10px;
   height: 10px;
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   margin-top: -5px;
   -webkit-transition: 0.5s;
   transition: 0.5s;
@@ -6100,7 +6100,7 @@ Sidebar CSS
 }
 
 .sidebar .widget.widget_categories ul li a:hover {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .sidebar .widget.widget_categories ul li:hover::before {
@@ -6143,7 +6143,7 @@ Sidebar CSS
 }
 
 .sidebar .widget.widget_recent_entries ul li h5 a:hover, .sidebar .widget.widget_recent_entries ul li h5 a:focus {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .sidebar .widget.widget_recent_entries ul li:last-child {
@@ -6160,9 +6160,9 @@ Sidebar CSS
 }
 
 .sidebar .widget.widget_tag_cloud .tagcloud a:hover {
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   color: #ffffff;
-  border-color: #ff5202;
+  border-color: hsl(202, 100%, 37%);
 }
 
 .sidebar .widget.widget_archive ul {
@@ -6186,7 +6186,7 @@ Sidebar CSS
   top: 50%;
   width: 10px;
   height: 10px;
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   margin-top: -5px;
   -webkit-transition: 0.5s;
   transition: 0.5s;
@@ -6202,7 +6202,7 @@ Sidebar CSS
 }
 
 .sidebar .widget.widget_archive ul li a:hover {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .sidebar .widget.widget_archive ul li:hover::before {
@@ -6240,7 +6240,7 @@ Pagination CSS
 }
 
 .pagination-area ul li a.active, .pagination-area ul li a:hover, .pagination-area ul li a:focus {
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   color: #ffffff;
   -webkit-box-shadow: unset;
           box-shadow: unset;
@@ -6261,7 +6261,7 @@ Pagination CSS
   font-weight: bold;
   line-height: 90px;
   margin: 0;
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .error-area h3 {
@@ -6276,8 +6276,8 @@ Pagination CSS
 Login CSS
 =================================================*/
 .login-area {
-  background: -webkit-gradient(linear, left bottom, right top, from(#ff5202), color-stop(#f75206), color-stop(#ef520a), color-stop(#e8510d), to(#e05110));
-  background: linear-gradient(to right top, #ff5202, #f75206, #ef520a, #e8510d, #e05110);
+  background: -webkit-gradient(linear, left bottom, right top, from(hsl(202, 100%, 37%)), color-stop(#f75206), color-stop(#ef520a), color-stop(#e8510d), to(#e05110));
+  background: linear-gradient(to right top, hsl(202, 100%, 37%), #f75206, #ef520a, #e8510d, #e05110);
   height: 100vh;
 }
 
@@ -6325,15 +6325,15 @@ Login CSS
 }
 
 .login-area .login-form p a:hover, .login-area .login-form p a:focus {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 /*================================================
 Signup CSS
 =================================================*/
 .signup-area {
-  background: -webkit-gradient(linear, left bottom, right top, from(#ff5202), color-stop(#f75206), color-stop(#ef520a), color-stop(#e8510d), to(#e05110));
-  background: linear-gradient(to right top, #ff5202, #f75206, #ef520a, #e8510d, #e05110);
+  background: -webkit-gradient(linear, left bottom, right top, from(hsl(202, 100%, 37%)), color-stop(#f75206), color-stop(#ef520a), color-stop(#e8510d), to(#e05110));
+  background: linear-gradient(to right top, hsl(202, 100%, 37%), #f75206, #ef520a, #e8510d, #e05110);
   height: 100vh;
 }
 
@@ -6381,7 +6381,7 @@ Signup CSS
 }
 
 .signup-area .signup-form p a:hover, .signup-area .signup-form p a:focus {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 /*================================================
@@ -6444,14 +6444,14 @@ Coming Soon CSS
 }
 
 .coming-soon .coming-soon-content form .form-control:focus {
-  border-color: #ff5202;
+  border-color: hsl(202, 100%, 37%);
 }
 
 .coming-soon .coming-soon-content form button {
   position: absolute;
   right: -1px;
   height: 100%;
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   top: 0;
   color: #ffffff;
   border: none;
@@ -6521,9 +6521,9 @@ Contact Us CSS
   height: 50px;
   text-align: center;
   line-height: 47px;
-  border: 1px dashed #ff5202;
+  border: 1px dashed hsl(202, 100%, 37%);
   border-radius: 50%;
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
@@ -6546,7 +6546,7 @@ Contact Us CSS
 }
 
 .contact-box .content p a:hover, .contact-box .content p a:focus {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .contact-box:hover, .contact-box:focus {
@@ -6557,7 +6557,7 @@ Contact Us CSS
 }
 
 .contact-box:hover .icon, .contact-box:focus .icon {
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   color: #ffffff;
 }
 
@@ -6614,7 +6614,7 @@ Contact Us CSS
 }
 
 .leave-your-message .stay-connected ul li a:hover, .leave-your-message .stay-connected ul li a:focus {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 #contactForm {
@@ -6684,7 +6684,7 @@ Footer CSS
   position: absolute;
   bottom: -8px;
   left: 0;
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   width: 60px;
   height: 2px;
 }
@@ -6706,7 +6706,7 @@ Footer CSS
   position: absolute;
   left: 0;
   top: 50%;
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
   width: 10px;
   height: 10px;
   margin-top: -5px;
@@ -6719,7 +6719,7 @@ Footer CSS
 }
 
 .single-footer-widget ul.list li a:hover, .single-footer-widget ul.list li a:focus {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .single-footer-widget ul.list li:last-child {
@@ -6740,7 +6740,7 @@ Footer CSS
 }
 
 .single-footer-widget ul.contact-info li a:hover, .single-footer-widget ul.contact-info li a:focus {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .single-footer-widget ul.contact-info li:last-child {
@@ -6768,7 +6768,7 @@ Footer CSS
 
 .single-footer-widget ul.social li a:hover, .single-footer-widget ul.social li a:focus {
   color: #ffffff;
-  background: #ff5202;
+  background: hsl(202, 100%, 37%);
 }
 
 .copyright-area {
@@ -6812,7 +6812,7 @@ Footer CSS
 }
 
 .copyright-area ul li a:hover, .copyright-area ul li a:focus {
-  color: #ff5202;
+  color: hsl(202, 100%, 37%);
 }
 
 .copyright-area ul li:last-child {
@@ -6832,7 +6832,7 @@ Go Top CSS
   bottom: 15px;
   right: 15px;
   color: #ffffff;
-  background-color: #ff5202;
+  background-color: hsl(202, 100%, 37%);
   z-index: 4;
   display: none;
   width: 50px;
@@ -6853,3 +6853,18 @@ Go Top CSS
   background: #0d1028;
 }
 /*# sourceMappingURL=style.css.map */
+
+
+
+
+
+shop-list p {
+  color: #051c45;
+  line-height: 20px;
+}
+p {
+  margin: 0 0 15px;
+  font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
+}
+
