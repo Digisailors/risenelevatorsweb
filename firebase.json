@@ -1,7 +1,7 @@
 {
   "hosting": {
-    "site" : "risen-template",
     "public": "public",
+    "site": "risen_template",
     "ignore": [
       "firebase.json",
       "**/.*",
